@@ -1,0 +1,65 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Jorgim",
+    "Contato": {
+      "Email": "henrique@example.com",
+      "DDD": 88,
+      "Telefone": 997614557
+    },
+    "Cpf": "06558971356",
+    "Rg": "2007713265",
+    "Endereco": {
+      "CEP": "63700004",
+      "Logradouro": "Rua Farias Brito",
+      "Numero": "96",
+      "Bairro": "Centro",
+      "Complemento": "",
+      "Cidade": "Crateus",
+      "Estado": "Ceara",
+      "Referencia": ""
+    }
+  },
+  {
+    "Id": 2,
+    "Nome": "Jorgim App Att denovo",
+    "Contato": {
+      "Email": "craveiroexample.com",
+      "DDD": 88,
+      "Telefone": 997614557
+    },
+    "Cpf": "06558971356",
+    "Rg": "2007713265",
+    "Endereco": {
+      "CEP": "63700004",
+      "Logradouro": "Rua Farias Souza",
+      "Numero": "96",
+      "Bairro": "Centro",
+      "Complemento": "",
+      "Cidade": "Maranguape",
+      "Estado": "Ceara",
+      "Referencia": ""
+    }
+  },
+  {
+    "Id": 3,
+    "Nome": "Jorgim",
+    "Contato": {
+      "Email": "henrique@example.com",
+      "DDD": 88,
+      "Telefone": 997614557
+    },
+    "Cpf": "06558971356",
+    "Rg": "2007713265",
+    "Endereco": {
+      "CEP": "63700004",
+      "Logradouro": "Rua Farias Brito",
+      "Numero": "96",
+      "Bairro": "Centro",
+      "Complemento": "",
+      "Cidade": "Crateus",
+      "Estado": "Ceara",
+      "Referencia": ""
+    }
+  }
+]
